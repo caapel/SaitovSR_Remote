@@ -6,6 +6,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            //solve task1
             //solve task2
         }
     }
