@@ -12,5 +12,6 @@
         { 
             return Math.Pow(X, 2);
         }
+        //solve task3
     }
 }
