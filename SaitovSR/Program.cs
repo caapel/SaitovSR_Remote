@@ -9,9 +9,11 @@
         }
 
         static public double Sqr(double X)
-        { 
+        {
             return Math.Pow(X, 2);
         }
+        //solve task1
+        //solve task2
         //solve task3
     }
 }
