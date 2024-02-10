@@ -5,9 +5,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-            //solve task1
-            //solve task2
+            Console.WriteLine(Sqr(5));
         }
+
+        static public double Sqr(double X)
+        {
+            return Math.Pow(X, 2);
+        }
+        //solve task1
+        //solve task2
     }
 }
